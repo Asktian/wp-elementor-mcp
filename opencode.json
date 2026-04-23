@@ -20,5 +20,5 @@
   },
   "model": "jucodex/gpt-5.4",
   "small_model": "jucodex/gpt-5.4-mini",
-  "share": "disabled"
+  "share": "manual"
 }
